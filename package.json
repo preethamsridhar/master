@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/preethamsridhar/master/issues"
   },
-  "homepage": "https://github.com/preethamsridhar/master#readme"
+  "homepage": "https://github.com/preethamsridhar/master#readme",
+  "dependencies": {
+    "slave-1": "github:preethamsridhar/slave-1#master"
+  }
 }
